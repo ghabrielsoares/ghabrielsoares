@@ -1,7 +1,7 @@
-<div>
- <a style="color:blue;font-size:50px;">Olá. Eu sou o Gabriel Soares, Designer e Desenvolvedor Front-End! 🖌💻</a><br>
- <a>Hello. I'm Gabriel Soares, Designer and Front-End Developer! 🖌💻</a>
-</div>
+###Olá. Eu sou o Gabriel Soares, Designer e Desenvolvedor Front-End! 🖌💻
+
+###Hello. I'm Gabriel Soares, Designer and Front-End Developer! 🖌💻
+
  <br><br>
 
 - 🌱 Universitário - Ciência da Computação  / University - Computer Science
