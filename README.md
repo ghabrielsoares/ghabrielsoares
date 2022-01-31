@@ -1,8 +1,7 @@
-###Olá. Eu sou o Gabriel Soares, Designer e Desenvolvedor Front-End! 🖌💻
+##Olá. Eu sou o Gabriel Soares, Designer e Desenvolvedor Front-End! 🖌💻<br>
+##Hello. I'm Gabriel Soares, Designer and Front-End Developer! 🖌💻
 
-###Hello. I'm Gabriel Soares, Designer and Front-End Developer! 🖌💻
 
- <br><br>
 
 - 🌱 Universitário - Ciência da Computação  / University - Computer Science
 - 🌱 Obtendo Conhecimento Sobre Desenvolvimento de Sistemas Web  / Getting Knowledge About Web Systems Development
