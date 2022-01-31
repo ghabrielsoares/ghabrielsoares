@@ -27,7 +27,7 @@
 <code><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
 <code><img align="center" alt="Rafa-Js" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code> 
 <code><img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></code>
- <img align="right" alt="Rafa-pic" height="166" style="border-radius:50px;" src="https://raw.githubusercontent.com/ghabrielsoares/ghabrielsoares/main/gif/gif_git.gif">
+ <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/ghabrielsoares/ghabrielsoares/main/gif/gif_git.gif">
 </div>
   
   
