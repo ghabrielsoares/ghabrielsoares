@@ -1,11 +1,12 @@
-## Olá. Eu sou o Gabriel Soares, Designer e Desenvolvedor Front-End! 🖌💻
-## Hello. I'm Gabriel Soares, Designer and Front-End Developer! 🖌💻
+## Olá. Eu sou o Gabriel Soares. Ciêntista da Computação | Desenvolvedor | Automação | Monitoramento | Virtualização | Contêineres | Bancos de Dados | Análise de Dados | Dashboards | Linux | Cloud | Redes
+## Hello. I'm Gabriel Soares. Computer Scientist | Developer | Automation | Monitoring | Virtualization | Containers | Databases | Data Analysis | Dashboards | Linux | Cloud | Networking
 
 <br>
 
-- 🌱 Universitário - Ciência da Computação  / University - Computer Science
-- 🌱 Obtendo Conhecimento Sobre Desenvolvimento de Sistemas Web  / Getting Knowledge About Web Systems Development
-- 👨🏽‍💻 Pronomes - Ele, Dele  / Pronouns - He, Him
+-  Formação: Bacharelado em Ciência da Computação / Education: Bachelor's in Computer Science
+
+-  Tenho experiência no desenvolvimento web, automação de tarefas, monitoramento de sistemas, gerenciamento de servidores, virtualização, contêineres, bancos de dados e hospedagem. Trabalho com análise de dados, criação de dashboards e otimização de desempenho em ambientes Linux e cloud.  / I have experience in web development, task automation, system monitoring, server management, virtualization, containers, databases, and hosting. I work with data analysis, dashboard creation, and performance optimization in Linux and cloud environments.
+- Pronomes - Ele, Dele  / Pronouns - He, Him
  
 
 
@@ -20,28 +21,54 @@
 ## 
   
 <div style="display: inline_block"><br>
- <a>Linguagens e ferramentas / Languages and Tools:</a><br><br>
+ <a>DevOps & Dev Skills:</a><br><br>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Languages/html-5.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Languages/css-3.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Languages/java-script.png"></code>
+<code><img align="center" alt="Rafa-Js" height="50" src="imgs/Languages/php.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Languages/python.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Languages/terminal.png"></code>
+</div>
 
-<code><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
-<code><img align="center" alt="Rafa-Js" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code> 
-<code><img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></code>
- <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/ghabrielsoares/ghabrielsoares/blob/main/gif/gif_gab.gif">
+##
+
+<div style="display: inline_block">
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Monitoramento e Observabilidade/grafana.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Monitoramento e Observabilidade/Zabbix_logo.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Monitoramento e Observabilidade/prometheus.png"></code>
+
+##
+
+<div style="display: inline_block">
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Hospedagem e Infraestrutura/hostinger.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Hospedagem e Infraestrutura/linux.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Hospedagem e Infraestrutura/ubuntu.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Ferramentas/docker.png"></code>
+<code><img align="center" alt="Rafa-Js" height="60" src="imgs/Hospedagem e Infraestrutura/proxmox.png"></code>
+</div>
+
+##
+
+<div style="display: inline_block">
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Banco de Dados/postgresql.png"></code>
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Banco de Dados/mysql.png"></code>
+</div>
+
+##
+
+<div style="display: inline_block">
+<code><img align="center" alt="Rafa-Js" height="30" src="imgs/Desenvolvimento e IDEs/Visual_Studio_Code.png"></code>
+<code><img align="center" alt="Rafa-Js" height="50" src="imgs/Desenvolvimento e IDEs/xampp.png"></code>
 </div>
   
  
 ##
   
   <div> 
-  <a href="https://www.instagram.com/ghabrielsoares_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/ghabrielsoares_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://wa.me/5591984403543" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ghabrielsoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/ghabrielsoares_" target="_blank"><img height="29em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"_blank"></a>
-  <a href = "mailto:gabrielcsoares.20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "mailto:gabrielcsoares.20@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
- ![Snake animation](https://github.com/ghabrielsoares/ghabrielsoares/blob/output/github-contribution-grid-snake.svg)
+    <a href="https://www.instagram.com/gabrielcs_dev/" target="_blank"><img align="center" alt="Rafa-Js" height="30" src="imgs/Redes S/instagram.png" target="_blank"></a>
+    <a href="https://wa.me/5591985668116" target="_blank"><img align="center" alt="Rafa-Js" height="30" src="imgs/Redes S/whatsapp.png" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ghabrielsoares/" target="_blank"><img align="center" alt="Rafa-Js" height="30" src="imgs/Redes S/linkedin.png" target="_blank"></a>
+    <a href = "mailto:ghabrielcsoares@gmail.com"><img  align="center" alt="Rafa-Js" height="30" src="imgs/Redes S/gmail.png" target="_blank"></a>
+    <a href = "mailto:ghabrielcsoares@hotmail.com"><img align="center" alt="Rafa-Js" height="30" src="imgs/Redes S/outlook.png" target="_blank"></a>
    
 </div>
